@@ -1,4 +1,4 @@
-# Lynote.ai - All Your Learning, in One Place. 🚀<div align="center"><img src="docs/images/logo.png" alt="Lynote Logo" width="120"><p><strong>一站式 AI 学习助手：从被动接收信息，转向主动构建知识体系。</strong></p>
+# Lynote.ai - All Your Learning, in One Place. 🚀<div align="center"><img src="/logo.png" alt="Lynote Logo" width="120"><p><strong>一站式 AI 学习助手：从被动接收信息，转向主动构建知识体系。</strong></p>
   
   [官网地址](https://lynote.ai/) | [在线演示](https://lynote.ai/demo) | [提交反馈](https://github.com/15713657767/lynote-ai-detector-youtube-summary/issues)
 </div>
