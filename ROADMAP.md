@@ -42,4 +42,4 @@
 
 ### 🗳️ 功能投票与反馈
 我们根据用户的呼声调整优先级。
-* 如果你有新需求，请提交 [Feature Request]([YOUR_ISSUE_LINK](https://github.com/15713657767/lynote-ai-detector-youtube-summary/issues))
+* 如果你有新需求，请提交 [Feature Request]([YOUR_ISSUE_LINK](https://github.com/15713657767/lynote-ai-detector-youtube-summary/issues)
